@@ -21,6 +21,19 @@ Svelte + sqlite + chatGPT generate
 DB_FILE_NAME=file:local.db
 ```
 ***
+* drizzle setting
+
+https://orm.drizzle.team/docs/get-started/sqlite-new
+
+***
+* migrate
+
+```
+npx drizzle-kit generate
+npx drizzle-kit migrate
+```
+
+***
 ### build
 
 * build, dev-start

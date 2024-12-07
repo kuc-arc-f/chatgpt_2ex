@@ -13,6 +13,14 @@
 Svelte + sqlite + chatGPT generate
 
 ***
+### Setup
+
+* .env
+
+```
+DB_FILE_NAME=file:local.db
+```
+***
 ### build
 
 * build, dev-start

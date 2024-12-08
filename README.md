@@ -10,7 +10,7 @@
 
 ***
 
-Svelte + sqlite , chatGPT generate
+chatGPT generate, Svelte , React, Vue  example
 
 ***
 ### build

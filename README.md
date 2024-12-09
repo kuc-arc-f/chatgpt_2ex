@@ -6,7 +6,7 @@
  
  date : 2024/12/07
 
- update : 2024/12/09 
+ update : 2024/12/09
 
 ***
 
@@ -24,6 +24,11 @@ bun run dev
 
 ***
 ### example
+
+* svelte_todo1: chatGPT generate, Svelte
+* svelte_todo2: chatGPT generate, Svelte
+* todo1: chatGPT generate, react
+* todo11: gemini-exp-1206 generate, react
 
 ***
 ### ChangeLog

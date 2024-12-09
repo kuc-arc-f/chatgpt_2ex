@@ -27,6 +27,7 @@ bun run dev
 
 * svelte_todo1: chatGPT generate, Svelte
 * svelte_todo2: chatGPT generate, Svelte
+* svelte_todo11: gemini-exp-1206 generate , Svelte
 * todo1: chatGPT generate, react
 * todo11: gemini-exp-1206 generate, react
 

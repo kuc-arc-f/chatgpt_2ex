@@ -6,11 +6,11 @@
  
  date : 2024/12/07
 
- update : 2024/12/09
+ update : 2024/12/09 
 
 ***
 
-chatGPT generate, Svelte , React, Vue  example
+LLM, chatGPT generate, Svelte , React, Vue
 
 ***
 ### build
